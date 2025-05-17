@@ -12,7 +12,7 @@ In the initial stage, the user will input a simple list of tasks for the day. Ch
 
 Prompt:
 "Create a to-do list for today with the following tasks: [Task 1], [Task 2], [Task 3]."
-
+--
 Expected Output:
 Today's To-Do List:
 
@@ -29,7 +29,7 @@ Now we introduce the concept of prioritizing tasks, with a focus on time managem
 
 Prompt:
 "Organize the following tasks by priority (High, Medium, Low): [Task 1], [Task 2], [Task 3]. Include estimated time for each task."
-
+--
 Expected Output:
 Today's To-Do List with Priorities:
 
@@ -46,7 +46,7 @@ This is where task scheduling and efficient time blocking come in. The applicati
 
 Prompt:
 "Schedule the following tasks with time blocks and include breaks: [Task 1], [Task 2], [Task 3]. Be sure to optimize for productivity."
-
+--
 Expected Output:
 Optimized Daily Schedule:
 
@@ -67,7 +67,7 @@ For a more advanced application, this stage allows users to review their day and
 
 Prompt:
 "Review the following tasks that were completed today: [Task 1], [Task 2], [Task 3]. What went well and what could be improved for tomorrow?"
-
+--
 Expected Output:
 Daily Review:
 
@@ -85,7 +85,7 @@ The final step introduces automation by setting up reminders for upcoming tasks 
 
 Prompt:
 "Set up reminders for these tasks: [Task 1], [Task 2], [Task 3]. Remind me 30 minutes before each task."
-
+--
 Expected Output:
 Task Reminder Notifications:
 
